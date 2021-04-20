@@ -1,0 +1,106 @@
+.entete {
+    text-align: center;
+    margin-top: 30px;
+    background-color: #FF7051 ;
+}
+
+.first
+{
+    color: ;
+    display: flex;
+    font-family: Bombardier;
+    margin-top: 90px;
+}
+
+.int {
+    
+    color: black;
+    flex: 1; 
+    padding: 1;
+    border: solid;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px ;
+    background-color:#cccccc;
+    
+}
+
+.int1 {
+    
+    flex: 1; 
+    padding: 1;
+    border: solid;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 50px;
+    border-radius: 20px ;
+    background-color:#cccccc;
+    
+}
+
+.Second
+{
+    font-family: Bombardier;
+    display: flex;
+    margin-top: 90px;
+}
+
+.int2 {
+
+    
+    
+    flex: 1; 
+    padding: 1;
+    border: solid;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px ;
+    background-color:#cccccc;
+}
+
+.int3 {
+
+    margin-left: 50px;
+   
+    flex: 1; 
+    padding: 1;
+    border: solid;
+    border-radius: 20px ;
+    text-align: center;
+    font-size: 28px;
+    background-color:#cccccc;
+}
+
+body {
+    
+    
+    background-image:url(images/2.jpg);
+    background-repeat:no-repeat;
+    }
+
+.corps{
+text-align: center;
+
+
+}
+
+.bas{
+
+    flex: 1;
+    background-color:#FF7051 ;
+    border:solid;
+    margin-top: 50px;
+    height: 150px;
+}
+
+.animation {
+   font-size: 50px;
+   font-family: bombardier;
+
+}
+
+a:hover{
+    cursor: pointer;
+    color:red;
+
+}
